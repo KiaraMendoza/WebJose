@@ -6,18 +6,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <img src="https://media1.tenor.com/images/0611367e0a8d1286722cd225f6af7487/tenor.gif?itemid=7267708" className="App-logo" alt="logo" />
+        <h1>Dinero fácil, totalmente legal</h1>
+        <p>Con cariño para Jose</p>
       </header>
     </div>
   );
